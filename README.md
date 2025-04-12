@@ -15,24 +15,6 @@ This project demonstrates the implementation of a recommendation system using Ma
 - Model evaluation and performance comparison
 - Interactive recommendations based on user input
 
-## 📁 Project Structure
-
-```
-📦 Recommendation System Project
-├── data/
-│   └── dataset.csv
-├── notebooks/
-│   └── recommendation_system.ipynb
-├── models/
-│   └── saved_models/
-├── src/
-│   ├── data_preprocessing.py
-│   ├── content_based.py
-│   ├── collaborative_filtering.py
-│   └── utils.py
-├── README.md
-└── requirements.txt
-```
 
 ## 📊 Algorithms Used
 
